@@ -1,0 +1,15 @@
+.view-product-btn{
+    padding: 10px 10px;
+    background-color: #000000;
+    color: #000000;
+    border: #000000;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.view-product-btn{
+    background-color: #000000;
+    color: #ffffff;
+}
